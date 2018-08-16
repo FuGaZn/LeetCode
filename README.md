@@ -1,2 +1,4 @@
 # LeetCode
-Some valuable codes written by Java on LeetCode
+Codes written in Java
+
+Jiaxing_f@163.com
